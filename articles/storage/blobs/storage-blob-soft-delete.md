@@ -355,11 +355,16 @@ inadvertent data loss.
 
 Currently, soft delete is only available for blob (object) storage.
 
+**Is soft delete available for all classic storage accounts?**
+
+No, soft delete is not avaialbe for classic storage accounts. 
+
 **Is soft delete available for all storage account types?**
 
 Yes, soft delete is available for blob storage accounts as well as for blobs
 in general-purpose storage accounts. This applies to both standard and
-premium accounts. Soft delete is not available for managed disks.
+premium accounts. Soft delete is not available for managed disks.  
+
 
 **Is soft delete available for all storage tiers?**
 
